@@ -6,3 +6,5 @@ This is the launcher for the Chica's Chase Mod!
    ( Make sure you put the correct steam library location. )
 
 Thank you RusselJ for creating UML! https://www.youtube.com/c/RussellJ/videos
+
+***make sure you end your steam path with steamapps/common***
